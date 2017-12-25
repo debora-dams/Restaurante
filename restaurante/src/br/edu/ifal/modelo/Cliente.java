@@ -8,4 +8,7 @@ public class Cliente {
 	private Integer cpf;
 	private List<Pedido> pedidos;
 
+	public Cliente() { //contrutor padrão
+		
+	}
 }
